@@ -20,6 +20,9 @@
     NSLog(@"hi this sharad");
      NSLog(@"hi how u");
      NSLog(@"fine");
+    
+    NSLog(@"i live in noida");
+    NSLog(@"india");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
